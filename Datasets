@@ -1,2 +1,3 @@
 I have uploaded 10 randomly selected samples from each dataset of the three datasets which I have uploaded my code on. 
 The first dataset has up to 24368 feature, so that it is transposed to fit in the excel sheet. 
+The first dataset has 24368 features and 1904 samples, the second dataset has 5567 features and 522 samples and the third dataset has 140 features and 962 sample. 
